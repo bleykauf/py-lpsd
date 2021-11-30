@@ -13,8 +13,8 @@ pip install pylpsd
 In case you want to edit this, clone this repository and install it in editable mode:
 
 ```
-git clone https://github.com/bleykauf/py-pylpsd
-cd py-pylpsd
+git clone https://github.com/bleykauf/py-lpsd
+cd py-lpsd
 pip install -e .
 ```
 
@@ -23,4 +23,4 @@ See the Jupyter notebook in the examples folder and the docstring.
 
  ## Implementation in other languages
 
- [Matlab](https://github.com/tobin/pylpsd): py-pylpsd is based on this implementation.
+ [Matlab](https://github.com/tobin/lpsd): py-lpsd is based on this implementation.
