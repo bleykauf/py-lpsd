@@ -18,7 +18,7 @@ exclude = '''
     | dist
   )/
   | versioneer.py
-  | lpsd/_version.py
+  | pylpsd/_version.py
   | docs/config.py
 )
 '''

@@ -17,7 +17,7 @@ def lpsd(
     scaling="density",
 ):
     """
-    Compute the LPSD power spectrum estimation with a logarithmic frequency axis.
+    Compute the pylpsd power spectrum estimation with a logarithmic frequency axis.
 
     Parameters
     ----------

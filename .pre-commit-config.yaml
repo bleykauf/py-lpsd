@@ -8,5 +8,5 @@ repos:
           (?x)^(
               versioneer.py|
               docs/conf.py|
-              lpsd/_version.py
+              pylpsd/_version.py
           )$
