@@ -1,4 +1,4 @@
-# py-pylpsd
+# py-lpsd
 
  Python implementation of the pylpsd algorithm for computing power spectral density with logarithmically spaced points. 
 
